@@ -1,0 +1,139 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+		<title>I Got Garbage</title>
+		<meta charset="utf-8" />
+		<meta name="description" content="" />
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+		<link rel='stylesheet' type='text/css' href='../Assets/CSS/reset.css'/>
+		<link rel="stylesheet" href="../Assets/CSS/foundation/foundation.css"/>
+		<link rel="stylesheet" href="../Assets/CSS/foundation/normalize.css"/>
+		<link rel="stylesheet" href="../Assets/CSS/main.css"/>
+		<link rel="stylesheet" href="../Assets/CSS/searchResults.css"/>
+		<script src="../Assets/Scripts/Library/angular.min.js"></script>
+		<script src="../Assets/Scripts/Library/angular-resource.min.js"></script>	
+		<script src="../Assets/Scripts/Library/jquery-1.11.0.min.js"></script>
+		<script src="../Assets/Scripts/Library/JQuery.easing.1.3.js"></script>
+		<script src="../Assets/Scripts/Library/simplePagination.js"></script>
+		<script src="../Assets/Scripts/Library/raphael-min.js"></script>
+		<script type="text/javascript" src="../Assets/Scripts/index.js"></script>
+		<script type="text/javascript" src="../Assets/Scripts/search.js"></script>		
+		<script src="../Assets/Scripts/Data/configPath.js"></script>
+		<style type="text/css">
+			img{
+				opacity: 0;
+			}
+			.searchImage img{
+				opacity: 1;
+			}
+		</style>
+	</head>
+  <body  ng-app="IGG" ng-controller="pageCtrl" scrollcontainer="closeOthers()">
+  	<header class="header">
+				<div class="headerContent clearfix">
+					<div class="pg-hamburger-window">
+						
+						<div class="pg-hamburger-up clearfix"> 
+							<div class="pg-two-icon-container left clearfix">
+								<div class="pg-hamm-icon-cont">
+									<div class="pg-icon-lines pg-hamm-line1"> </div>
+									<div class="pg-icon-lines pg-hamm-line2"> </div>
+									<div class="pg-icon-lines pg-hamm-line3"> </div>
+								</div>
+								<div class="pg-breadCrumb-cont left">
+									<div class="pg-breadCrumb-firstLine pg-breadCrumb"> </div>
+									<div class="pg-breadCrumb-secondLine pg-breadCrumb"> </div>
+									<div class="pg-breadCrumb-thirdLine pg-breadCrumb"> </div>
+								</div>
+							</div>
+							<div class="left logo pg-initial-visible-title">I  GOT  GARBAGE</div>
+							<!--<div class="pg-title-in-hamm">I GOT GARBAGE</div>-->
+						</div>
+						<!-- <div class="pg-hamburger-seperator"></div> -->
+						<ul class="pg-hamburger-down"> 
+							<li class="pg-hamm-list1">ABOUT IGG</li>
+							<li class="pg-hamm-list2">LEARN</li>
+							<li class="pg-hamm-list3">
+								<div class="pg-hamm-list3-title">AT HOME</div>
+								<ul class="pg-hamm-list3-contents">
+									<li class="pg-hamm-list3-items">Donate Dry Waste</li>
+									<li class="pg-hamm-list3-items">Segrigate At Home</li>
+								</ul>
+							</li>
+							<li class="pg-hamm-list4">
+								<div class="pg-hamm-list4-title">IN MY CITY</div>
+								<ul class="pg-hamm-list4-contents">
+									<li class="pg-hamm-list4-items">Citizen Forum</li>
+									<li class="pg-hamm-list4-items">Campaign</li>
+									<li class="pg-hamm-list4-items">Find Service Provider</li>
+								</ul>
+							</li>
+						</ul>
+					</div> 
+					
+					<div class="textBoxCenter">
+						<span class="iconicStroke search" ng-click="movethisToRight()" ng-class="{active: searchActive}" click-anywhere-but-here="closeOthers()">F</span>
+						<input type="text" placeholder="" id="myTextbox" class="searchText" ng-class="{active: textBoxAnim}" click-anywhere-but-here="closeOthers()"/>						
+					</div>
+					<div class="right loginActions">
+						<a href="#" class="left">About</a>
+						<a href="#" class="left">Join</a>
+						<a href="#" class="left">Log In</a>
+					</div>
+				</div>
+				<div class="slideContainer" ng-class="{active: slideContainer}">
+					
+				</div>
+			</header>
+			<div class="content" ng-controller="searchCtrl" > <!--ng-mousemove="parallexMe()" ng-mouseleave="parallexMeLeave()"-->
+				<div class="graphSearch" id="graphSearch"  ng-mouseleave="parallexMeLeave()">
+					<div class="searchResults">
+						<div class="searchImage">
+							<img height="120" ng-model="results.results[results.results.mainResultId].image" ng-src="{{results.results[results.results.mainResultId].image}}">
+						</div>
+						<div class="searchDetails">
+							<div class="searchHeading" ng-model="results.results[results.results.mainResultId].name">
+								{{results.results[results.results.mainResultId].name}}
+							</div>
+							<div class="searchItemPostDate" >
+								<div class="postedBy" ng-model="results.results[results.results.mainResultId].postedBy">Posted by: {{results.results[results.results.mainResultId].postedBy}}</div>
+								<div class="postedOn" ng-model="results.results[results.results.mainResultId].date">{{results.results[results.results.mainResultId].date}}</div>
+							</div>
+							<div class="searchDescription" ng-model="results.results[results.results.mainResultId].description">{{results.results[results.results.mainResultId].description}}</div>
+							<div class="buttonWraprrerSearch">
+								<button class="btn">GO TO PAGE</button>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="searchResultsBottom">
+					<div class="resultsHead">Results for: </div>
+					<div class="searchTitle">Birds of prey</div>
+					<ul class="clearfix">
+						<li class="clearfix" ng-repeat="result in results.searchResults| startFrom: pagination.page * pagination.perPage | limitTo: pagination.perPage">
+							<div class="searchResultsHeading">{{result.title}}</div>
+							  <div class="searchItemDate">{{result.date}}</div>                              
+                              
+                              <div class="searchDesc">{{result.description}}</div>                                 
+                             
+                             <div>
+                             	<button class="btn goToPage">Go to Page</button>
+                             </div>
+						</li>
+					</ul>
+					<div class="paginationWrap">
+	                     <ul class="pagination clearfix">
+	                     	<span class="arrrow_imagelft" ng-click="pagination.prevPage()"></span>
+						    <li class="left" ng-repeat="n in [] | range: pagination.numPages" ng-class="{current: n == pagination.page}">
+							  	<span ng-click="pagination.toPageId(n)">{{n + 1}}</span>
+							</li>
+							<span class="arrrow_imagergt" ng-click="pagination.nextPage()"></span>
+						  </ul>
+					</div>
+					
+				</div>
+			</div>
+			   
+ 
+  </body>
+</html>

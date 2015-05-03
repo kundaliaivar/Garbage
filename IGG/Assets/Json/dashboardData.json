@@ -1,0 +1,48 @@
+{
+	"ragpickers" : 34670,
+	"garbageSegragated" : 56367,
+	"citizensOnboard" : 972030,
+	"bangaloreCityIndex" : 6.5,
+	"garbageDiaries" : [{
+		"popularityIndex" : 1,
+		"date" : "22-02-2013",
+		"heading" : "Design with Intent: Sustainibility with Product Design",
+		"image" : "image1.png",
+		"description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+	},
+	{
+		"popularityIndex" : 4,
+		"date" : "21-02-2013",
+		"heading" : "Plastic Garbage: From Waste to Resource",
+		"image" : "image2.png",
+		"description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+	},
+	{
+		"popularityIndex" : 3,
+		"date" : "22-03-2013",
+		"heading" : "The Politics of e-waste: A Cadmium lining",
+		"image" : "image3.png",
+		"description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+	},
+	{
+		"popularityIndex" : 2,
+		"date" : "22-01-2013",
+		"heading" : "TABS Recycle almost 200 Tons of Toner Waste in 2013",
+		"image" : "image4.png",
+		"description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+	},
+	{
+		"popularityIndex" : 6,
+		"date" : "22-01-2013",
+		"heading" : "Why you should never drink from Plastic",
+		"image" : "image5.png",
+		"description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+	},
+	{
+		"popularityIndex" : 5,
+		"date" : "22-01-2013",
+		"heading" : "Thinking Green While on Vacation: 8 tips on Eco-Travel",
+		"image" : "image6.png",
+		"description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+	}]
+}

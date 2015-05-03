@@ -1,0 +1,434 @@
+{
+	 "results": {
+	    "mainResultId":"1",
+		"1": {
+			"name": "Ecuadorian red-lored Amazon",
+			"description": "Like other Amazon parrots, this Ecuadorian species is mainly green with a red front to the head and paler feathers towards the crown. There are 27 species of Amazon parrots, all of which are green in colour and native to the Americas.",
+			"postedBy": "Sir Issac Newton",
+			"date": "15 July 1432",
+			"image": "../Assets/images/birds1.png",
+			"relation": [
+				2,
+				7,
+				4,
+				5,
+				6
+			]
+		},
+		"2": {
+			"name": "Macaws",
+			"description": "Like other Amazon parrots, this Ecuadorian species is mainly green with a red front to the head and paler feathers towards the crown. There are 27 species of Amazon parrots, all of which are green in colour and native to the Americas.",
+			"postedBy": "Sir Issac Newton",
+			"date": "15 July 1432",
+			"image": "../Assets/images/birds2.png",
+			"relation": [
+				1,
+				4,
+				7,
+				8
+			]
+		},
+		"3": {
+			"name": "Rainbow Bee-Eaters",
+			"description": "Like other Amazon parrots, this Ecuadorian species is mainly green with a red front to the head and paler feathers towards the crown. There are 27 species of Amazon parrots, all of which are green in colour and native to the Americas.",
+			"postedBy": "Sir Issac Newton",
+			"date": "15 July 1432",
+			"image": "../Assets/images/birds3.png",
+			"relation": [
+				1,
+				9,
+				10
+			]
+		},
+		"4": {
+			"name": "Ecuadorian red-lored Amazon",
+			"description": "Like other Amazon parrots, this Ecuadorian species is mainly green with a red front to the head and paler feathers towards the crown. There are 27 species of Amazon parrots, all of which are green in colour and native to the Americas.",
+			"postedBy": "Sir Issac Newton",
+			"date": "15 July 1432",
+			"image": "../Assets/images/birds4.png",
+			"relation": [
+				1,
+				2,
+				12,
+				13
+			]
+		},
+		"5": {
+			"name": "Ecuadorian red-lored Amazon",
+			"description": "Like other Amazon parrots, this Ecuadorian species is mainly green with a red front to the head and paler feathers towards the crown. There are 27 species of Amazon parrots, all of which are green in colour and native to the Americas.",
+			"postedBy": "Sir Issac Newton",
+			"date": "15 July 1432",
+			"image": "../Assets/images/birds5.png",
+			"relation": [
+				1,
+				13,
+				14
+			]
+		},
+		"6": {
+			"name": "Scarlet Tanager",
+			"description": "Like other Amazon parrots, this Ecuadorian species is mainly green with a red front to the head and paler feathers towards the crown. There are 27 species of Amazon parrots, all of which are green in colour and native to the Americas.",
+			"postedBy": "Sir Issac Newton",
+			"date": "15 July 1432",
+			"image": "../Assets/images/birds6.png",
+			"relation": [
+				1,
+				15,
+				16
+			]
+		},
+		"7": {
+			"name": "Horned Owl",
+			"description": "Like other Amazon parrots, this Ecuadorian species is mainly green with a red front to the head and paler feathers towards the crown. There are 27 species of Amazon parrots, all of which are green in colour and native to the Americas.",
+			"postedBy": "Sir Issac Newton",
+			"date": "15 July 1432",
+			"image": "../Assets/images/birds7.png",
+			"relation": [
+				2,
+				17,
+				18
+			]
+		},
+		"8": {
+			"name": "Rainbow Bee-Eaters",
+			"description": "Like other Amazon parrots, this Ecuadorian species is mainly green with a red front to the head and paler feathers towards the crown. There are 27 species of Amazon parrots, all of which are green in colour and native to the Americas.",
+			"postedBy": "Sir Issac Newton",
+			"date": "15 July 1432",
+			"image": "../Assets/images/birds3.png",
+			"relation": [
+				2
+			]
+		},
+		"9": {
+			"name": "Ecuadorian red-lored Amazon",
+			"description": "Like other Amazon parrots, this Ecuadorian species is mainly green with a red front to the head and paler feathers towards the crown. There are 27 species of Amazon parrots, all of which are green in colour and native to the Americas.",
+			"postedBy": "Sir Issac Newton",
+			"date": "15 July 1432",
+			"image": "../Assets/images/birds8.png",
+			"relation": [
+				3
+			]
+		},
+		"10": {
+			"name": "Ecuadorian red-lored Amazon",
+			"description": "Like other Amazon parrots, this Ecuadorian species is mainly green with a red front to the head and paler feathers towards the crown. There are 27 species of Amazon parrots, all of which are green in colour and native to the Americas.",
+			"postedBy": "Sir Issac Newton",
+			"date": "15 July 1432",
+			"image": "../Assets/images/birds9.png",
+			"relation": [
+				2,
+				19,
+				20
+			]
+		},
+		"11": {
+			"name": "Horned Owl",
+			"description": "Like other Amazon parrots, this Ecuadorian species is mainly green with a red front to the head and paler feathers towards the crown. There are 27 species of Amazon parrots, all of which are green in colour and native to the Americas.",
+			"postedBy": "Sir Issac Newton",
+			"date": "15 July 1432",
+			"image": "../Assets/images/birds7.png",
+			"relation": [
+				3
+			]
+		},
+		"12": {
+			"name": "Griffon Vulture",
+			"description": "Like other Amazon parrots, this Ecuadorian species is mainly green with a red front to the head and paler feathers towards the crown. There are 27 species of Amazon parrots, all of which are green in colour and native to the Americas.",
+			"postedBy": "Sir Issac Newton",
+			"date": "15 July 1432",
+			"image": "../Assets/images/birds10.png",
+			"relation": [
+				4
+			]
+		},
+		"13": {
+			"name": "Ecuadorian red-lored Amazon",
+			"description": "Like other Amazon parrots, this Ecuadorian species is mainly green with a red front to the head and paler feathers towards the crown. There are 27 species of Amazon parrots, all of which are green in colour and native to the Americas.",
+			"postedBy": "Sir Issac Newton",
+			"date": "15 July 1432",
+			"image": "../Assets/images/birds9.png",
+			"relation": [
+				5,4
+			]
+		},
+		"14": {
+			"name": "Ecuadorian red-lored Amazon",
+			"description": "Like other Amazon parrots, this Ecuadorian species is mainly green with a red front to the head and paler feathers towards the crown. There are 27 species of Amazon parrots, all of which are green in colour and native to the Americas.",
+			"postedBy": "Sir Issac Newton",
+			"date": "15 July 1432",
+			"image": "../Assets/images/birds8.png",
+			"relation": [
+				5
+			]
+		},
+		"15": {
+			"name": "Griffon Vulture",
+			"description": "Like other Amazon parrots, this Ecuadorian species is mainly green with a red front to the head and paler feathers towards the crown. There are 27 species of Amazon parrots, all of which are green in colour and native to the Americas.",
+			"postedBy": "Sir Issac Newton",
+			"date": "15 July 1432",
+			"image": "../Assets/images/birds10.png",
+			"relation": [
+				6
+			]
+		},
+		"16": {
+			"name": "Ecuadorian red-lored Amazon",
+			"description": "Like other Amazon parrots, this Ecuadorian species is mainly green with a red front to the head and paler feathers towards the crown. There are 27 species of Amazon parrots, all of which are green in colour and native to the Americas.",
+			"postedBy": "Sir Issac Newton",
+			"date": "15 July 1432",
+			"image": "../Assets/images/birds8.png",
+			"relation": [
+				6
+			]
+		},
+		"17": {
+			"name": "Ecuadorian red-lored Amazon",
+			"description": "Like other Amazon parrots, this Ecuadorian species is mainly green with a red front to the head and paler feathers towards the crown. There are 27 species of Amazon parrots, all of which are green in colour and native to the Americas.",
+			"postedBy": "Sir Issac Newton",
+			"date": "15 July 1432",
+			"image": "../Assets/images/birds9.png",
+			"relation": [
+				7
+			]
+		},
+		"18": {
+			"name": "Horned Owl",
+			"description": "Like other Amazon parrots, this Ecuadorian species is mainly green with a red front to the head and paler feathers towards the crown. There are 27 species of Amazon parrots, all of which are green in colour and native to the Americas.",
+			"postedBy": "Sir Issac Newton",
+			"date": "15 July 1432",
+			"image": "../Assets/images/birds7.png",
+			"relation": [
+				7
+			]
+		},
+		"17": {
+			"name": "Ecuadorian red-lored Amazon",
+			"description": "Like other Amazon parrots, this Ecuadorian species is mainly green with a red front to the head and paler feathers towards the crown. There are 27 species of Amazon parrots, all of which are green in colour and native to the Americas.",
+			"postedBy": "Sir Issac Newton",
+			"date": "15 July 1432",
+			"image": "../Assets/images/birds8.png",
+			"relation": [
+				8
+			]
+		},
+		"18": {
+			"name": "Ecuadorian red-lored Amazon",
+			"description": "Like other Amazon parrots, this Ecuadorian species is mainly green with a red front to the head and paler feathers towards the crown. There are 27 species of Amazon parrots, all of which are green in colour and native to the Americas.",
+			"postedBy": "Sir Issac Newton",
+			"date": "15 July 1432",
+			"image": "../Assets/images/birds9.png",
+			"relation": [
+				8
+			]
+		}
+	},
+	"suggestions": [
+		{
+			"id": 101,
+			"name": "A"
+		},
+		{
+			"id": 102,
+			"name": "B"
+		},
+		{
+			"id": 103,
+			"name": "C"
+		},
+		{
+			"id": 104,
+			"name": "D"
+		},
+		{
+			"id": 105,
+			"name": "E"
+		},
+		{
+			"id": 106,
+			"name": "C"
+		},
+		{
+			"id": 107,
+			"name": "D"
+		},
+		{
+			"id": 108,
+			"name": "E"
+		},
+		{
+			"id": 109,
+			"name": "C"
+		},
+		{
+			"id": 110,
+			"name": "D"
+		},
+		{
+			"id": 111,
+			"name": "E"
+		},
+		{
+			"id": 112,
+			"name": "C"
+		},
+		{
+			"id": 113,
+			"name": "D"
+		},
+		{
+			"id": 114,
+			"name": "E"
+		},
+		{
+			"id": 115,
+			"name": "E"
+		},
+		{
+			"id": 116,
+			"name": "A"
+		},
+		{
+			"id": 117,
+			"name": "B"
+		},
+		{
+			"id": 118,
+			"name": "C"
+		},
+		{
+			"id": 119,
+			"name": "D"
+		},
+		{
+			"id": 120,
+			"name": "E"
+		},
+		{
+			"id": 121,
+			"name": "C"
+		},
+		{
+			"id": 122,
+			"name": "D"
+		},
+		{
+			"id": 123,
+			"name": "E"
+		},
+		{
+			"id": 124,
+			"name": "C"
+		},
+		{
+			"id": 125,
+			"name": "D"
+		},
+		{
+			"id": 126,
+			"name": "E"
+		},
+		{
+			"id": 127,
+			"name": "C"
+		},
+		{
+			"id": 128,
+			"name": "D"
+		},
+		{
+			"id": 129,
+			"name": "E"
+		},
+		{
+			"id": 130,
+			"name": "E"
+		},
+		{
+			"id": 131,
+			"name": "E"
+		}
+		
+	],
+	"searchResults": [
+	{
+          "date": "23 April '14",
+          "title": "Birds eat dog",
+          "description":"The lase week of February was a horific one for the type community. Within the space of three days we lost three personalities, each important ti the world of typography in his own way."          
+    },
+    {
+          "date": "23 April '14",
+          "title": "Birds eat dog",
+          "description":"The lase week of February was a horific one for the type community. Within the space of three days we lost three personalities, each important ti the world of typography in his own way."          
+    },
+    {
+          "date": "23 April '14",
+          "title": "Birds eat dog",
+          "description":"The lase week of February was a horific one for the type community. Within the space of three days we lost three personalities, each important ti the world of typography in his own way."          
+    },
+    {
+          "date": "23 April '14",
+          "title": "Birds eat dog",
+          "description":"The lase week of February was a horific one for the type community. Within the space of three days we lost three personalities, each important ti the world of typography in his own way."          
+    },
+    {
+          "date": "23 April '14",
+          "title": "Birds eat dog",
+          "description":"The lase week of February was a horific one for the type community. Within the space of three days we lost three personalities, each important ti the world of typography in his own way."          
+    },
+    {
+          "date": "23 April '14",
+          "title": "Birds eat dog",
+          "description":"The lase week of February was a horific one for the type community. Within the space of three days we lost three personalities, each important ti the world of typography in his own way."          
+    },
+    {
+          "date": "23 April '14",
+          "title": "Birds eat dog",
+          "description":"The lase week of February was a horific one for the type community. Within the space of three days we lost three personalities, each important ti the world of typography in his own way."          
+    },
+    {
+          "date": "23 April '14",
+          "title": "Birds eat dog",
+          "description":"The lase week of February was a horific one for the type community. Within the space of three days we lost three personalities, each important ti the world of typography in his own way."          
+    },
+    {
+          "date": "23 April '14",
+          "title": "Birds eat dog",
+          "description":"The lase week of February was a horific one for the type community. Within the space of three days we lost three personalities, each important ti the world of typography in his own way."          
+    },
+    {
+          "date": "23 April '14",
+          "title": "Birds eat dog",
+          "description":"The lase week of February was a horific one for the type community. Within the space of three days we lost three personalities, each important ti the world of typography in his own way."          
+    },
+    {
+          "date": "23 April '14",
+          "title": "Birds eat dog",
+          "description":"The lase week of February was a horific one for the type community. Within the space of three days we lost three personalities, each important ti the world of typography in his own way."          
+    },
+    {
+          "date": "23 April '14",
+          "title": "Birds eat dog",
+          "description":"The lase week of February was a horific one for the type community. Within the space of three days we lost three personalities, each important ti the world of typography in his own way."          
+    },
+    {
+          "date": "23 April '14",
+          "title": "Birds eat dog",
+          "description":"The lase week of February was a horific one for the type community. Within the space of three days we lost three personalities, each important ti the world of typography in his own way."          
+    },
+    {
+          "date": "23 April '14",
+          "title": "Birds eat dog",
+          "description":"The lase week of February was a horific one for the type community. Within the space of three days we lost three personalities, each important ti the world of typography in his own way."          
+    },
+    {
+          "date": "23 April '14",
+          "title": "Birds eat dog",
+          "description":"The lase week of February was a horific one for the type community. Within the space of three days we lost three personalities, each important ti the world of typography in his own way."          
+    },
+    {
+          "date": "23 April '14",
+          "title": "Birds eat dog",
+          "description":"The lase week of February was a horific one for the type community. Within the space of three days we lost three personalities, each important ti the world of typography in his own way."          
+    }
+    ]
+}

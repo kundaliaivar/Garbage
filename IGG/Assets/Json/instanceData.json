@@ -1,0 +1,63 @@
+{	
+	
+	"userDetails" : {
+		"userOrganisation" : "Jayanagar Empowers Ragpickers",	
+		"postDate" : "22 MAR",
+		"userName" : "Jane Danzka",
+		"imgURL" : "imgURL1.png",
+		"videoURL" : "//www.youtube.com/embed/GiQ-rkCPRNc",
+		"imagesCrsl" : ["a","b","c","d","e"],
+		"userDesignation" : "Engineer, BBMP",
+		"userDescription": "A Rag-picker, or Chiffonnier, was a 19th- and early 20th-century term for someone who made a living by rummaging through refuse in the streets to collect material for salvage. Scraps of cloth and paper could be turned into cardboard, broken glass could be melted down and reused, and even dead cats and dogs could be skinned to make clothes. The rag-pickers did not recycle the materials themselves; they would simply collect whatever they could find and turn it over to a Master Rag-picker (usually a former rag-picker) who would, in turn, sell it—generally by weight—to wealthy investors with the means to convert the materials into something more profitable.",
+		"userReports": "A Rag-picker, or Chiffonnier, was a 19th- and early 20th-century term for someone who made a living by rummaging through refuse in the streets to collect material for salvage. Scraps of cloth and paper could be turned into cardboard, broken glass could be melted down and reused, and even dead cats and dogs could be skinned to make clothes. The rag-pickers did not recycle the materials themselves; they would simply collect whatever they could find and turn it over to a Master Rag-picker (usually a former rag-picker) who would, in turn, sell it—generally by weight—to wealthy investors with the means to convert the materials into something more profitable.",
+		"userContact": {
+			"Name": "Manohar Singh",
+			"Contact": "+91-7795541977",
+			"Address": "Moonraft Innovation Labs,L 152, 14th Cross, 5th Main,HSR Layout 6th Sector,Bangalore 560102 INDIA,L 152, 14th Cross, 5th Main,HSR Layout 6th Sector,Bangalore 560102 INDIA,"
+		},
+		"garbageDiaries" : [{
+		"popularityIndex" : 1,
+		"date" : "22-02-2013",
+		"heading" : "Design with Intent: Sustainibility with Product Design",
+		"image" : "image1.png",
+		"description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+	},
+	{
+		"popularityIndex" : 4,
+		"date" : "21-02-2013",
+		"heading" : "Plastic Garbage: From Waste to Resource",
+		"image" : "image2.png",
+		"description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+	},
+	{
+		"popularityIndex" : 3,
+		"date" : "22-03-2013",
+		"heading" : "The Politics of e-waste: A Cadmium lining",
+		"image" : "image3.png",
+		"description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+	},
+	{
+		"popularityIndex" : 2,
+		"date" : "22-01-2013",
+		"heading" : "TABS Recycle almost 200 Tons of Toner Waste in 2013",
+		"image" : "image4.png",
+		"description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+	},
+	{
+		"popularityIndex" : 6,
+		"date" : "22-01-2013",
+		"heading" : "Why you should never drink from Plastic",
+		"image" : "image5.png",
+		"description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+	},
+	{
+		"popularityIndex" : 5,
+		"date" : "22-01-2013",
+		"heading" : "Thinking Green While on Vacation: 8 tips on Eco-Travel",
+		"image" : "image6.png",
+		"description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+	}
+	]
+	},
+	"totalComments": 6
+}

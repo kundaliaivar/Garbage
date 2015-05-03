@@ -1,0 +1,172 @@
+body{
+	background:#E55B17;
+	font-family: Lato400;
+}
+.tablewrapper{
+	width:50%;
+	height: 375px;
+	background:#ffffff;
+	margin: 0 auto;
+}
+
+tr.odd ,tr.odd td.sorting_1{
+	background-color: #f9f8f7;
+}
+tr.even,tr.even td.sorting_1{
+	background-color: #f2f0ed;
+}
+table.display td {
+	padding: 0px 10px;
+height: 49px;
+vertical-align: middle;
+font-size: 12px;
+}
+table.display {
+	margin: 0px 10px 30px 10px;
+	clear: both;
+	width: 97%;
+	float: left;
+}
+table.display thead th{
+	font-weight: normal;
+	color: #797878;
+	padding-bottom: 12px;
+	text-transform: uppercase;
+	font-size: 12px;
+}
+tr{
+	color: #797878;
+}
+#table_id_first,#table_id_last{
+	display: none;
+}
+.dataTables_length label ,.dataTables_filter label{
+	background: transparent;
+	color: #fff;
+}
+.btn{
+	line-height: 40px;
+	
+}
+.dataTables_filter input{
+	width: 200px !important;
+	margin-top: 16px;
+}
+.dataTables_filter .search {
+	font-size: 18px;
+	line-height: 20px;
+	color: #E55B17;
+	-webkit-transition: all 300ms ease-in-out;
+	position: relative;
+	z-index: 1;
+	left: -26px;
+	top: 4px;
+	
+}
+.ui-datepicker-prev-hover{
+	top: 2px !important;
+	left: 2px !important;
+}
+.ui-datepicker-next-hover{
+	right: 2px !important;
+	top: 2px !important;
+}
+.iconicStroke {
+	font-family: iconicStroke;
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+.dataTables_filter input[type="text"]{
+	background: none;
+}
+.dataTables_info{
+	display: none;
+}
+.dataTables_paginate{
+	float: left;
+}
+.paging_full_numbers{
+	width: auto;
+	margin-top: 10px;
+	float: none;
+	text-align: center;
+}
+.paging_full_numbers a.paginate_button:hover{
+	background:none;	
+}
+
+.paging_full_numbers a.paginate_button, .paging_full_numbers{
+	background:none;
+	border: none;
+}
+
+.paging_full_numbers a.paginate_button, .paging_full_numbers a.paginate_active{
+	color: #e66424 !important;
+	background:none;
+	border: none;
+	font-size: 12px;
+	line-height: 24px;
+}
+
+.paging_full_numbers .previous.paginate_button{
+	background:#ffffff;
+	color:#ffffff !important;
+	background-image: url(../images/cal_arrow_left.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 20px;
+	height: 20px;
+	display: inline-block;
+	font-size: 0;
+}
+.paging_full_numbers .previous.paginate_button:hover{
+	background:#ffffff;
+	color:#ffffff !important;
+	background-image: url(../images/cal_arrow_left.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 20px;
+	height: 20px;
+	display: inline-block;
+	font-size: 0;
+}
+.paging_full_numbers .next.paginate_button{
+	background:#ffffff;
+	color:#ffffff !important;
+	background-image: url(../images/cal_arrow_right.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 20px;
+	height: 20px;
+	display: inline-block;
+	font-size: 0;
+}
+.paging_full_numbers .next.paginate_button:hover{
+	background:#ffffff;
+	color:#ffffff !important;
+	background-image: url(../images/cal_arrow_right.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 20px;
+	height: 20px;
+	display: inline-block;
+	font-size: 0;
+}
+.dataTables_scrollBody{
+	margin-top: -30px;
+}
+.dataTables_scroll {
+	clear: both;
+	margin: 0px 10px;
+}
+.bootstrap-select{
+	margin-left: 15px!important;
+}
+.dataTables_length{
+	margin-left: 20px;
+}

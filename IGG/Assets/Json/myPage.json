@@ -1,0 +1,384 @@
+{
+	"userName": "Banksy Bushwik",
+	"emailID": "Banksky@gmail.com",
+	"Recommendations" : [{
+		"image" : "image1.png",
+		"description" : "Lorem ipsum dolor sit amet, consectetur "
+	},
+	{
+		"image" : "image2.png",
+		"description" : "Lorem ipsum dolor sit amet, consectetur "
+	},
+	{
+		"image" : "image3.png",
+		"description" : "Lorem ipsum dolor sit amet, consectetur "
+	},
+	{
+		"image" : "image4.png",
+		"description" : "Lorem ipsum dolor sit amet, consectetur "
+	},
+	{
+		"image" : "image5.png",
+		"description" : "Lorem ipsum dolor sit amet, consectetur "
+	},
+    {
+    "image" : "image3.png",
+    "description" : "Lorem ipsum dolor sit amet, consectetur "
+  },
+  {
+    "image" : "image4.png",
+    "description" : "Lorem ipsum dolor sit amet, consectetur "
+  },
+  {
+    "image" : "image5.png",
+    "description" : "Lorem ipsum dolor sit amet, consectetur "
+  },
+	{
+		"image" : "image6.png",
+		"description" : "Lorem ipsum dolor sit amet, consectetur "
+	}],
+	"Experts" : [{
+		"name": "Ira Glass",
+		"badge": 3
+	},
+	{
+		"name": "David H Hansson",
+		"badge": 1
+	},
+	{
+		"name": "Ryan Singer",
+		"badge": 3
+	},
+	{
+		"name": "Json Fried",
+		"badge": 2
+	},
+	{
+		"name": "Jamie Dihianson",
+		"badge": 1
+	}],
+	"Articles" : [{
+		"name": "Two big announcements",
+		"badge": 1
+	},
+	{
+		"name": "The Knowledge Graph",
+		"badge": 2
+	}],
+	"Subscriptions" : [{
+		"image" : "image1.png",
+		"description" : "Lorem ipsum dolor sit amet, consectetur "
+	},
+	{
+		"image" : "image2.png",
+		"description" : "Lorem ipsum dolor sit amet, consectetur "
+	},
+	{
+		"image" : "image3.png",
+		"description" : "Lorem ipsum dolor sit amet, consectetur "
+	},
+	{
+		"image" : "image4.png",
+		"description" : "Lorem ipsum dolor sit amet, consectetur "
+	},
+	{
+		"image" : "image5.png",
+		"description" : "Lorem ipsum dolor sit amet, consectetur "
+	},
+
+	{
+		"image" : "image6.png",
+		"description" : "Lorem ipsum dolor sit amet, consectetur "
+	},
+	{
+		"image" : "image4.png",
+		"description" : "Lorem ipsum dolor sit amet, consectetur "
+	},
+	{
+		"image" : "image5.png",
+		"description" : "Lorem ipsum dolor sit amet, consectetur "
+	},
+
+	{
+		"image" : "image6.png",
+		"description" : "Lorem ipsum dolor sit amet, consectetur "
+	},
+	{
+		"image" : "image1.png",
+		"description" : "Lorem ipsum dolor sit amet, consectetur "
+	},
+	{
+		"image" : "image2.png",
+		"description" : "Lorem ipsum dolor sit amet, consectetur "
+	},
+	{
+		"image" : "image3.png",
+		"description" : "Lorem ipsum dolor sit amet, consectetur "
+	},
+	{
+		"image" : "image1.png",
+		"description" : "Lorem ipsum dolor sit amet, consectetur "
+	},
+	{
+		"image" : "image2.png",
+		"description" : "Lorem ipsum dolor sit amet, consectetur "
+	},
+	{
+		"image" : "image3.png",
+		"description" : "Lorem ipsum dolor sit amet, consectetur "
+	},
+	{
+		"image" : "image4.png",
+		"description" : "Lorem ipsum dolor sit amet, consectetur "
+	},
+	{
+		"image" : "image5.png",
+		"description" : "Lorem ipsum dolor sit amet, consectetur "
+	},
+
+	{
+		"image" : "image6.png",
+		"description" : "Lorem ipsum dolor sit amet, consectetur "
+	}],
+	"Pledges" : [{
+		"Pledge": "Ragpickers Education ",
+		"TargetCompleted": 1500,
+		"TargetTotal" : 2500		
+	},
+	{
+		"Pledge": "Ragpickers Education ",
+		"TargetCompleted": 1000,
+		"TargetTotal" : 2500		
+	},
+	{
+		"Pledge": "Ragpickers Education ",
+		"TargetCompleted": 1500,
+		"TargetTotal" : 2500		
+	}],
+	"PledgesCompleted": [{
+		"Pledge": "Ragpickers Education ",
+		"TargetCompleted": 2500
+	},
+	{
+		"Pledge": "Ragpickers Education ",
+		"TargetCompleted": 2500
+	},
+	{
+		"Pledge": "Ragpickers Education ",
+		"TargetCompleted": 2500
+	}],
+	"Campaigns" : [{
+		"Pledge": "Ragpickers Education ",
+		"TargetCompleted": 1500,
+		"date": "23 April '14"
+	},
+	{
+		"Pledge": "Ragpickers Education ",
+		"TargetCompleted": 1500,
+		"date": "23 April '14"
+	},
+	{
+		"Pledge": "Ragpickers Education ",
+		"TargetCompleted": 1500,
+		"date": "23 April '14"
+	}],
+	"CampaignsCompleted": [{
+		"Pledge": "Ragpickers Education ",
+		"TargetCompleted": 2500
+	},
+	{
+		"Pledge": "Ragpickers Education ",
+		"TargetCompleted": 2500
+	}],
+	"Timeline":[{
+          "date": "23 April '14",
+          "title": "You read whatever floats your boat ",
+          "author":"Felix Hensworth"
+    },
+    {
+          "date": "23 April '14",
+          "title": "You read whatever else also floats your boat ",
+          "author":"Felix Hensworth"
+    },
+     {
+          "date": "23 April '14",
+          "title": "You read whatever else also floats your boat ",
+          "author":"Felix Hensworth"
+    },
+     {
+          "date": "23 April '14",
+          "title": "You read whatever else also floats your boat ",
+          "author":"Felix Hensworth"
+    },
+     {
+          "date": "23 April '14",
+          "title": "You read whatever else also floats your boat ",
+          "author":"Felix Hensworth"
+    },
+     {
+          "date": "23 April '14",
+          "title": "You read whatever else also floats your boat ",
+          "author":"Felix Hensworth"
+    },
+     {
+          "date": "23 April '14",
+          "title": "You read whatever else also floats your boat ",
+          "author":"Felix Hensworth"
+    },
+     {
+          "date": "23 April '14",
+          "title": "You read whatever else also floats your boat ",
+          "author":"Felix Hensworth"
+    },
+    {
+          "date": "23 April '14",
+          "title": "You subscribed whatever else floats your boat ",
+          "author":"Felix Hensworth"
+    }],
+    "TimelineArticles":[{
+          "date": "23 April '14",
+          "title": "You read whatever floats your boat ",
+          "author":"Felix Hensworth"
+    },
+    {
+          "date": "23 April '14",
+          "title": "You read whatever else also floats your boat ",
+          "author":"Felix Hensworth"
+    },
+    {
+          "date": "23 April '14",
+          "title": "You subscribed whatever else floats your boat ",
+          "author":"Felix Hensworth"
+    },
+    {
+          "date": "23 April '14",
+          "title": "You read whatever else also floats your boat ",
+          "author":"Felix Hensworth"
+    },
+    {
+          "date": "23 April '14",
+          "title": "You subscribed whatever else floats your boat ",
+          "author":"Felix Hensworth"
+    },
+    {
+          "date": "23 April '14",
+          "title": "You read whatever else also floats your boat ",
+          "author":"Felix Hensworth"
+    },
+    {
+          "date": "23 April '14",
+          "title": "You subscribed whatever else floats your boat ",
+          "author":"Felix Hensworth"
+    },
+    {
+          "date": "23 April '14",
+          "title": "You read whatever else also floats your boat ",
+          "author":"Felix Hensworth"
+    },
+    {
+          "date": "23 April '14",
+          "title": "You subscribed whatever else floats your boat ",
+          "author":"Felix Hensworth"
+    },
+    {
+          "date": "23 April '14",
+          "title": "You read whatever else also floats your boat ",
+          "author":"Felix Hensworth"
+    },
+    {
+          "date": "23 April '14",
+          "title": "You subscribed whatever else floats your boat ",
+          "author":"Felix Hensworth"
+    },
+    {
+          "date": "23 April '14",
+          "title": "You read whatever else also floats your boat ",
+          "author":"Felix Hensworth"
+    },
+    {
+          "date": "23 April '14",
+          "title": "You subscribed whatever else floats your boat ",
+          "author":"Felix Hensworth"
+    },
+    {
+          "date": "23 April '14",
+          "title": "You read whatever else also floats your boat ",
+          "author":"Felix Hensworth"
+    },
+    {
+          "date": "23 April '14",
+          "title": "You subscribed whatever else floats your boat ",
+          "author":"Felix Hensworth"
+    },
+    {
+          "date": "23 April '14",
+          "title": "You read whatever else also floats your boat ",
+          "author":"Felix Hensworth"
+    },
+    {
+          "date": "23 April '14",
+          "title": "You subscribed whatever else floats your boat ",
+          "author":"Felix Hensworth"
+    },
+    {
+          "date": "23 April '14",
+          "title": "You read whatever else also floats your boat ",
+          "author":"Felix Hensworth"
+    },
+    {
+          "date": "23 April '14",
+          "title": "You subscribed whatever else floats your boat ",
+          "author":"Felix Hensworth"
+    },
+    {
+          "date": "23 April '14",
+          "title": "You read whatever else also floats your boat ",
+          "author":"Felix Hensworth"
+    },
+    {
+          "date": "23 April '14",
+          "title": "You subscribed whatever else floats your boat ",
+          "author":"Felix Hensworth"
+    },
+    {
+          "date": "23 April '14",
+          "title": "You read whatever else also floats your boat ",
+          "author":"Felix Hensworth"
+    },
+    {
+          "date": "23 April '14",
+          "title": "You subscribed whatever else floats your boat ",
+          "author":"Felix Hensworth"
+    },
+    {
+          "date": "23 April '14",
+          "title": "You read whatever else also floats your boat ",
+          "author":"Felix Hensworth"
+    },
+    {
+          "date": "23 April '14",
+          "title": "You subscribed whatever else floats your boat ",
+          "author":"Felix Hensworth"
+    },
+    {
+          "date": "23 April '14",
+          "title": "You read whatever else also floats your boat ",
+          "author":"Felix Hensworth"
+    },
+    {
+          "date": "23 April '14",
+          "title": "You subscribed whatever else floats your boat ",
+          "author":"Felix Hensworth"
+    },
+    {
+          "date": "23 April '14",
+          "title": "You read whatever else also floats your boat ",
+          "author":"Felix Hensworth"
+    },
+    {
+          "date": "23 April '14",
+          "title": "You subscribed whatever else floats your boat ",
+          "author":"Felix Hensworth"
+    }]
+
+}
